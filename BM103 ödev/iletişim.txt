@@ -1,0 +1,132 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title>İndex</title> 
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+		header
+{
+    background-image: url('blue.jpg');
+	 background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+  
+		.head1 { 
+            font-size:40px; 
+            color:#FB0206; 
+            font-weight:bold;
+			text-align: center;
+			
+        } 
+        .head2 { 
+            font-size:30px;
+			color:#FF0000;
+			text-align: center
+        } 
+        body { 
+            margin: 0 auto; 
+            background-position:center; 
+            background-size: contain; 
+        } 
+      
+        .menu {    
+            position: sticky; 
+            top: 0; 
+            background-color: #DAEA0C; 
+            padding:0px 0px 0px 0px; 
+            color:whitesmoke; 
+            margin: 0 auto; 
+            overflow: hidden;
+			text-align: center
+        } 
+        .menu a { 
+           float:none
+            color: white; 
+            text-align: center; 
+            padding: 2px 50px; 
+            text-decoration: none; 
+            font-size: 20px; 
+        } 
+        .menu-log { 
+            right: auto; 
+            float: right; 
+        } 
+        .footer1 { 
+            width: 100%; 
+            bottom: 0px; 
+            background-color: #000; 
+            color: #fff; 
+            position: absolute; 
+            padding-top:20px; 
+            padding-bottom:50px; 
+            text-align:center; 
+            font-size:30px; 
+            font-weight:bold; 
+        } 
+		.footer2 { 
+            width: 20%; 
+            bottom: 0px; 
+            background-color: #000; 
+            color: #fff; 
+            position: absolute;
+			right: 0px;
+            padding-top:20px; 
+            padding-bottom:25px;
+            text-align:right; 
+            font-size:10px; 
+            font-weight:bold;
+			margin-right:20px;
+        } 
+        .body_sec { 
+            margin-left:120px; 
+        } 
+    </style> 
+</head> 
+  
+<body> 
+      
+    <!-- Header Section -->
+    <header
+
+		
+        <div class="head1"><img src="pars.png" alt="erdos logo"  width="100" height="100">
+	</div> 
+        <div class="head2">ERDOS ELECTRONICS</div> 
+    </header> 
+      
+    <!-- Menu Navigation Bar -->
+    <div class="menu"> 
+		<table  border="2"  width="1300px" height="50px" align="center" cellspacing="4" bordercolor="purple">
+			<th width="100" height="10" > <a href="index.htm"><u>Anasayfa</u></a> </th> 
+        <th width="100" height="10" ><a href="#hizmetlerimiz"><u>Hizmetlerimiz</u></a></th> 
+			<th width="200" height="10" ><a href="#kurumsal"><u>Kurumsal</u></a></th>  
+			<th width="200" height="40" > <a href="#kariyer"><u>Kariyer</u></a></th>
+			<th width="200" height="40" ><a href="#iletşim"><u>İletişim</u></a></th>
+		</table>
+    </div> 
+      
+    <!-- Body section -->
+    <div class = "body_sec"> 
+        <section id="Content"> 
+            <h3>Content section jojeodjfopdsıonfıodsopfmopöcopmdsocmosmoeködsöcopdsmfopkesopfösdöcopmocömospdöfpdsofkdopmfodmsofmodspmfodmıopvmdosıvmısodmımvımıvmsıodfdmıcmsınmıvsncındsıocnsıdomcıondovınsıodn
+			</h3> 
+        </section> 
+    </div>
+	</body>
+      
+    <!-- Footer Section -->
+    <footer>
+		<div class="footer1"><strong>Copyright© </strong>  </div>
+	 
+	
+		<div class="footer2">
+<a href="https://twitter.com/?lang=tr" target="_blank"><img src="twit.jpg" width="50px"height="50px"alt="T" />  </a> 
+ <a href="https://www.instagram.com/?hl=tr" target="_blank"><img src="ins..png" width="50px" height="50px" alt="İ" /> </a>
+ <a href="https://tr-tr.facebook.com" target="_blank"><img src="face..png" width="50px" height="50px" alt="F" /> </a>
+ <a href="https://tr.linkedin.com" target="_blank"><img src="linkedin.png" width="50px" height="50px" alt="L" /> </a> 
+		</div>
+	</footer>
+ 
+</html>  
