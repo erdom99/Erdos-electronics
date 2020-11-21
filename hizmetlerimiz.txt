@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css"/>
+    <link rel="stylesheet" href="global.css"/>
+    <link rel="stylesheet" media="(max-width:642px)"href="mobile.css"/>
+    <link rel="stylesheet" media="(max-width:921px)" href="tablet.css"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
+    <title>ERDOS ELECTRONİCS_anasayfa</title>
+  </head>
+  <body>
+    <!-- Header Başlangıç -->
+    <header class="bg-dark-color">
+      <div class="container">
+        
+        <a href = "index.html"><div align="center"><img src="parsana.png" alt="ana Logo" class="logo" height="100px"></div></a> 
+		  ERDOS ELECTRONİCS
+		  <nav id="navbar">
+          <ul >
+		  
+		  <li  width="100" height="10" > <a href="index.html"><u>Anasayfa</u></a> </li> 
+        <li width="100" height="10" ><a href="#hizmetlerimiz"><u>Hizmetlerimiz</u></a></li> 
+			<li width="200" height="10" ><a href="#kurumsal"><u>Kurumsal</u></a></li>  
+			<li width="200" height="40" > <a href="#kariyer"><u>Kariyer</u></a></li>
+			<li width="200" height="40" ><a href="iletişim.html"><u>İletişim</u></a></li>
+		 
+			  
+     </ul>
+		
+		  
+        </nav>
+
+      </div>
+
+</header>
+	  
+   
+    <!-- Header Son -->
+<div class="body-container">
+
+    <section class="ana-icerik">
+
+      <article class="hizmetlerimiz">
+        <h1 class="ana-tanimlayici-baslik">Hizmetlerimiz</h1>
+        <div class="hizmet hizmet-1">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta quis ex exercitationem vel velit minima quae molestias odio, nihil sunt tenetur debitis incidunt voluptatum reprehenderit iure dolore impedit deserunt dolores aliquid voluptas nulla maiores, quasi at libero. Mollitia quaerat nisi praesentium accusamus provident illum laborum placeat illo numquam quasi laboriosam cumque magnam harum, sint officia quis neque consequuntur sunt, quas fugit asperiores maxime modi, voluptates saepe. Libero commodi minima veniam fugiat repellat voluptatem hic sit enim? Eius excepturi eveniet nam, voluptas distinctio accusantium est in sapiente labore libero aliquid eos nemo et cum odio, at earum a porro, dolorum. Libero!</p>
+          <img src="./img/hizmetlerimiz-1.jpg" width="100%" height="100%" alt="">
+        </div>
+        <div class="hizmet hizmet-2">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, veniam suscipit est odit quo? Natus tenetur vel corporis autem quos, blanditiis impedit! Harum sed, ad voluptatibus voluptates consequuntur ea architecto, natus minus nesciunt eaque quasi eligendi ut. Itaque, voluptatem, voluptates quis dolorem, saepe delectus maiores totam, ipsa illum earum deleniti cupiditate architecto veritatis ex quod quo praesentium quas eaque dignissimos magni. Harum quos, perspiciatis voluptatem explicabo nihil blanditiis quis accusantium consectetur vero ducimus libero repudiandae veritatis asperiores in ut. Ab vero aperiam sapiente corrupti accusamus. Iure, non at, vel numquam et recusandae voluptatum! Nulla ut architecto, quasi sed dicta explicabo.
+          </p>
+          <img src="./img/hizmetlerimiz-2.jpg" width="100%" height="100%" alt="">
+        </div>
+      </article>
+    </section>
+
+  </div>
+
+<!-- Footer Başlangıç-->
+      <footer id="bottom-side" class="dark-color">
+        <div class="footer-container">
+          <div class="footer-icerik">
+            <a href = "./index.html"><img src="pars.png" alt="st" class="logo" height="73px"></a>
+
+
+			  <center><strong><h2> Copyright©</h2> </strong> </center> 
+
+            <!-- Sosyal Medya-->
+            <ul class="social-main">
+              <li class="social"><a target="_blank"  href="https://www.facebook.com"><img class="social-icon social-facebook" src="face..png" alt="F"></a></li>
+              <li class="social"><a target="_blank"  href="https://www.twitter.com"><img class="social-icon social-twitter" src="twit.jpg" alt="T"></a></li>
+              <li class="social"><a target="_blank"  href="https://www.instagram.com"><img class="social-icon social-instagram" src="ins..png"  alt="I"></a></li>
+              <li class="social"><a target="_blank"  href="https://www.youtube.com"><img class="social-icon social-youtube" src="yout.jpg" alt="Y"></a></li>
+            </ul>
+            <!-- Sosyal Medya-->
+          </div>
+        </div>
+      </footer>
+      <!-- Footer Son -->
+  </body>
+</html>

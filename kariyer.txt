@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="tr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css"/>
+    <link rel="stylesheet" href="global.css"/>
+    <link rel="stylesheet" media="(max-width:642px)"href="mobile.css"/>
+    <link rel="stylesheet" media="(max-width:921px)" href="tablet.css"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
+    <title>ERDOS ELECTRONİCS_anasayfa</title>
+  </head>
+  <body>
+    <!-- Header Başlangıç -->
+    <header class="bg-dark-color">
+      <div class="container">
+        
+        <a href = "index.html"><div align="center"><img src="parsana.png" alt="ana Logo" class="logo" height="100px"></div></a> 
+		  ERDOS ELECTRONİCS
+		  <nav id="navbar">
+          <ul >
+		  
+		  <li  width="100" height="10" > <a href="index.html"><u>Anasayfa</u></a> </li> 
+        <li width="100" height="10" ><a href="hizmetlerimiz.html"><u>Hizmetlerimiz</u></a></li> 
+			<li width="200" height="10" ><a href="kurumsal.html"><u>Kurumsal</u></a></li>  
+			<li width="200" height="40" > <a href="kariyer.html"><u>Kariyer</u></a></li>
+			<li width="200" height="40" ><a href="iletişim.html"><u>İletişim</u></a></li>
+		 
+			  
+     </ul>
+		
+		  
+        </nav>
+
+      </div>
+
+</header>
+<!-- Header Son -->
+
+<div class="body-container">
+
+    <section class="ana-icerik">
+      <article class="kariyer-imkanlari">
+        <h1 class="ana-tanimlayici-baslik">Kariyer İmkanları</h1>
+        <div class="kariyer-container kariyer-container-duz">
+          <div class="content">
+            <h3>Artificial Intelligence</h3>
+
+            <p class="kariyer-para-left">
+              Computers are actively learning about the world around them. AI is no longer the stuff of science fiction. It’s happening now. At Microsoft, we’re infusing artificial intelligence across everything we make in an effort to democratize AI and help solve society’s greatest challenges.
+            </p>
+          </div>
+          <img src="./img/career1.jpg" alt="" class="kariyer-img kariyer-mobil-img">
+        </div>
+
+        <div class="kariyer-container kariyer-container-ters">
+          <img src="./img/career2.jpg" alt="" class="kariyer-img kariyer-mobil-img">
+          <div class="content">
+            <h3>Diversity and Inclusion</h3>
+
+            <p class="kariyer-para-right">
+              We bring together people from all over the world, and our efforts start at home.
+            </p>
+          </div>
+        </div>
+        <div class="kariyer-container kariyer-container-duz">
+          <div class="content">
+            <h3>Cloud</h3>
+
+            <p class="kariyer-para-left">
+              We’re as dedicated to our customer’s success as we are in innovating for the future. Microsoft’s investment in the cloud is making people’s lives easier all over the world.
+            </p>
+          </div>
+          <img src="./img/career3.jpg" alt="" class="kariyer-img kariyer-mobil-img">
+        </div>
+
+        <div class="kariyer-container kariyer-container-ters">
+          <img src="./img/career4.jpg" alt="" class="kariyer-img kariyer-mobil-img">
+
+          <div class="content">
+            <h3>Inclusive Hiring for people with disabilities</h3>
+
+            <p class="kariyer-para-right">
+              At Donanim PC, we know that having a diverse workforce which includes people with disabilities is essential if we are going to deliver on our mission to empower every person and every organization on the planet to achieve more. Our Autism Hiring Program, Ability Hiring events, and inclusive interviews enable all candidates to showcase their skills and bring their best selves.
+            </p>
+          </div>
+
+        </div>
+      </article>
+    </section>
+
+
+
+  </div>
+
+<!-- Footer Başlangıç-->
+      <footer id="bottom-side" class="dark-color">
+        <div class="footer-container">
+          <div class="footer-icerik">
+            <a href = "./index.html"><img src="pars.png" alt="st" class="logo" height="73px"></a>
+
+
+			  <center><strong><h2> Copyright©</h2> </strong> </center> 
+
+            <!-- Sosyal Medya-->
+            <ul class="social-main">
+              <li class="social"><a target="_blank"  href="https://www.facebook.com"><img class="social-icon social-facebook" src="face..png" alt="F"></a></li>
+              <li class="social"><a target="_blank"  href="https://www.twitter.com"><img class="social-icon social-twitter" src="twit.jpg" alt="T"></a></li>
+              <li class="social"><a target="_blank"  href="https://www.instagram.com"><img class="social-icon social-instagram" src="ins..png"  alt="I"></a></li>
+              <li class="social"><a target="_blank"  href="https://www.youtube.com"><img class="social-icon social-youtube" src="yout.jpg" alt="Y"></a></li>
+            </ul>
+            <!-- Sosyal Medya-->
+          </div>
+        </div>
+      </footer>
+      <!-- Footer Son -->
+  </body>
+</html>
