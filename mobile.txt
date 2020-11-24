@@ -4,9 +4,10 @@
 }
 
 #navbar ul{
-display: flex;
 flex-direction: column;
 margin-top: 10px;
+display: flex;
+
 }
 #navbar ul li a{
   text-align: center;
@@ -43,7 +44,7 @@ div.kurumsal{
 
 div.kurumsal p.mobil{
   border: none;
-  border-bottom: 0.5px solid #CCD0D5;
+  border-bottom: 0.5px solid #606060;
   padding: 1.5rem;
   font-size: 1rem;
 }
@@ -62,7 +63,7 @@ div.kurumsal img{
 }
 
 div.kariyer-container-duz{
-  border: 0.5px solid #CCD0D5;
+  border: 0.5px solid #606060;
   border-radius: 5px;
   padding: 1rem;
   margin-top: 1rem;
@@ -78,7 +79,7 @@ div.kariyer-container-ters{
 }
 
 div.kariyer-container p{
-  border-bottom: 0.5px solid #CCD0D5;
+  border-bottom: 0.5px solid #606060;
   padding-bottom: 1rem;
 }
 
@@ -88,6 +89,6 @@ div.kariyer-container img.kariyer-mobil-img{
 }
 div.kariyer-container p.kariyer-para-left{
   border:none;
-  border-bottom: 0.5px solid #CCD0D5;
+  border-bottom: 0.5px solid #606060;
   padding-bottom: 1rem;
 }

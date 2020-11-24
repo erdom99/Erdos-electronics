@@ -1,12 +1,8 @@
 .dark-color {
 background-color:#000;
 }
-.first-dark-color{
-  background-color: #093a8e;
-}
-.light-color{
-  background-color: #5367fc;
-}
+
+
 #navbar ul li a.active{
   border-radius: 5px;
   background-color: #fff;

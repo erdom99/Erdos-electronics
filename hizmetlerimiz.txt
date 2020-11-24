@@ -13,7 +13,7 @@
   </head>
   <body>
     <!-- Header Başlangıç -->
-    <header class="first-dark-color">
+    <header>
       <div class="container">
         
         <a href = "index.html"><div align="center"><img src="parsana.png" alt="ana Logo" class="logo" height="100px"></div></a> 
