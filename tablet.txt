@@ -1,7 +1,7 @@
 #navbar{
   flex-direction: column;
   justify-content: flex-start;
-  height: 125px;
+  height: 120px;
 }
 .reklam{
   display: none;

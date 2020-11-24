@@ -4,14 +4,13 @@ background-color:#000;
 .first-dark-color{
   background-color: #093a8e;
 }
-.bg-light-color{
+.light-color{
   background-color: #5367fc;
 }
 #navbar ul li a.active{
-  color: #000;
   border-radius: 5px;
   background-color: #fff;
-
+  color: #000;
 }
 #navbar ul li a{
   font-weight: bold;
@@ -24,6 +23,9 @@ background-color:#000;
   background-color: #fff;
   color: #000;
   border-radius: 5px ;
+  background-color: #DFF236;
+  color: #9716CE;
+
 }
 
 a{

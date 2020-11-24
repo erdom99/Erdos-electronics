@@ -61,7 +61,7 @@
       <footer id="bottom-side" class="dark-color">
         <div class="footer-container">
           <div class="footer-icerik">
-            <a href = "./index.html"><img src="pars.png" alt="st" class="logo" height="71px"></a>
+            <a href = "index.html"><img src="pars.png" alt="st" class="logo" height="71px"></a>
 
 
 			  <center><strong><h2> Copyright©</h2> </strong> </center> 
